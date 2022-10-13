@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "http://localhost:8181/ReactJenkins",
   "name": "devopsfrontend",
   "version": "0.1.0",
   "private": true,
