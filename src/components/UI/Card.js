@@ -18,7 +18,7 @@ const Card = () => {
           <div className="card-body items-center text-center">
             <h2 className="card-title">{data.characterName}</h2>
             <div className="card-actions">
-              <Link to={`/api/character/${data.name}`}>
+              <Link to={`/${data.name}`}>
                 <button className="btn btn-primary">Detail</button>
               </Link>
             </div>
